@@ -9,7 +9,7 @@ Bu depo, **M. Ümit Aksoylu** tarafından yazılan **"Projelerle Yapay Zeka ve B
 
 Kitabı bölüm bölüm çalışırken tamamladığım projeleri buraya ekliyorum. Amacım, kitaptaki teorik bilgileri pratiğe dökerek öğrenme sürecimi belgelemek ve pekiştirmektir.
 
-## 📖 Kitap Hakkında
+## Kitap Hakkında
 
 > **Kitap Adı:** Projelerle Yapay Zeka ve Bilgisayarlı Görü
 > **Yazar:** M. Ümit Aksoylu
@@ -17,7 +17,7 @@ Kitabı bölüm bölüm çalışırken tamamladığım projeleri buraya ekliyoru
 >
 > Bu kitap, yapay zeka ve bilgisayarlı görü konularına giriş yapmak, temel teoriyi öğrenmek ve bu bilgileri Python, OpenCV, TensorFlow/Keras gibi popüler kütüphanelerle gerçek dünya projelerine uygulamak için kapsamlı bir kaynaktır.
 
-## 🚀 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 Bu depodaki projelerde ağırlıklı olarak aşağıdaki teknolojiler ve kütüphaneler kullanılmıştır:
 
@@ -27,11 +27,11 @@ Bu depodaki projelerde ağırlıklı olarak aşağıdaki teknolojiler ve kütüp
 * **Veri İşleme:** NumPy, Pandas
 * **Görselleştirme:** Matplotlib
 
-## 📂 Depo Yapısı
+## Depo Yapısı
 
 Projeler, kitaptaki ilerlemeye paralel olarak projeler adlı klasörde bulunmaktadır. Her biri ilgili proje veya bölümün adını taşır ve içerisinde gerekli kod dosyalarını (`.py` veya `.ipynb`), kullanılan veri setlerini (veya veri setlerine bağlantıları) ve projeye özel notları barındırır.
 
-## 🛠️ Kurulum (Getting Started)
+## Kurulum (Getting Started)
 
 Projeleri yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
@@ -57,7 +57,7 @@ Projeleri yerel makinenizde çalıştırmak için aşağıdaki adımları izleye
     ```
     *(Not: Henüz bir `requirements.txt` dosyanız yoksa, `pip freeze > requirements.txt` komutuyla mevcut ortamınızdaki paketleri listeleyerek oluşturabilirsiniz.)*
 
-## 🏃‍♀️ Projeleri Çalıştırma
+## Projeleri Çalıştırma
 
 Her proje klasörünün içine girerek ilgili Python betiğini çalıştırabilirsiniz.
 
@@ -71,10 +71,10 @@ cd Proje-03-Plaka-Okuma-Sistemi/
 python ocr.py --image test_images/plaka1.jpg
 ```
 
-## 📄 Lisans
+## Lisans
 
 Bu depodaki kodlar, aksi belirtilmediği sürece MIT Lisansı altında lisanslanmıştır. Kitabın orijinal içeriği ve konseptleri yazarı M. Ümit Aksoylu'ya aittir.
 
-# 🙏 Teşekkür
+# Teşekkür
 
 Bu değerli kaynağı hazırladığı ve karmaşık konuları projelerle somutlaştırdığı için M. Ümit Aksoylu'ya teşekkürler.
